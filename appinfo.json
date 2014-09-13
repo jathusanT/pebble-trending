@@ -1,0 +1,32 @@
+{
+    "appKeys": {
+        "KEY_GET_TRENDS": 99
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jathusan",
+    "longName": "Trends",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Roboto-Bold.ttf",
+                "name": "ROBOTO_BOLD_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Bold.ttf",
+                "name": "ROBOTO_BOLD_24",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Trends",
+    "uuid": "366360d8-ffcc-47d6-a7c9-a751a2ef5aa5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
